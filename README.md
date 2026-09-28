@@ -59,7 +59,7 @@ The portal features an institutional university split-screen UI, interactive cli
 | **ORM** | SQLAlchemy 2.0 |
 | **Image Processing** | Pillow (PIL) |
 | **Security** | Bcrypt password hashing, CORS protection |
-| **Design Source** | Google Stitch MCP (`16838137743704585461`) |
+| **Design Source** | Google Stitch MCP|
 
 ---
 
